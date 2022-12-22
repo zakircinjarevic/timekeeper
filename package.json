@@ -34,7 +34,7 @@
     "fs": "0.0.1-security",
     "ftp": "^0.3.10",
     "helmet": "^3.16.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.11",
     "logform": "^2.1.2",
     "mongoose": "^5.4.15",
